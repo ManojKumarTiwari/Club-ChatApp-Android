@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "964702499610",
+    "firebase_url": "https://club-f1dec.firebaseio.com",
+    "project_id": "club-f1dec",
+    "storage_bucket": "club-f1dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964702499610:android:f02003b1bb37eac8",
+        "android_client_info": {
+          "package_name": "com.maddyplays.club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964702499610-27mfj2am30ot5rmmq91egv2k69r64ufg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maddyplays.club",
+            "certificate_hash": "f594fd2219ef56bd844b2e9296a10ab80cf173a9"
+          }
+        },
+        {
+          "client_id": "964702499610-17psen2ppahbadmumfouq9vcrhb4q1sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maddyplays.club",
+            "certificate_hash": "b6e014e325cfa01dff882895c5903a7dcd863176"
+          }
+        },
+        {
+          "client_id": "964702499610-2ke0h2slqct9bn04m41dkqgn7ir3gscu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7c1ut_-rgdm-J6Z2NSdrdotILCt8ACE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964702499610-2ke0h2slqct9bn04m41dkqgn7ir3gscu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
